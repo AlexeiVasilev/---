@@ -119,7 +119,7 @@ color: #86898f;
 .form-row .form-group:last-child{
 margin-right: 0;
 }
-@media (max-width 650px) {
+@media (max-width 692px) {
     display: block;
    .form-row .form-group{
     width: 100%;
